@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="http://java.sun.com/xml/ns/persistence" version="2.0">
+
+    <persistence-unit name="NewPersistenceUnit">
+<!--        <provider>org.apache.openjpa.persistence.PersistenceProviderImpl</provider>-->
+        <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+        <class>com.example.bts_smartreferee.models.Accounts</class>
+        <class>com.example.bts_smartreferee.models.Games</class>
+        <class>com.example.bts_smartreferee.models.GameDetails</class>
+        <class>com.example.bts_smartreferee.models.Guild</class>
+        <class>com.example.bts_smartreferee.models.Account</class>
+        <class>com.example.bts_smartreferee.models.Game</class>
+        <class>com.example.bts_smartreferee.models.GameDetail</class>
+        <properties>
+            <property name="openjpa.ConnectionURL" value="jdbc:mysql://localhost:3306/smart_ref"/>
+            <property name="openjpa.ConnectionDriverName" value="com.mysql.cj.jdbc.Driver"/>
+            <property name="openjpa.ConnectionUserName" value="root"/>
+            <property name="openjpa.ConnectionPassword" value="refertrams"/>
+            <property name="openjpa.Log" value="DefaultLevel=TRACE, Tool=INFO"/>
+        </properties>
+    </persistence-unit>
+</persistence>
