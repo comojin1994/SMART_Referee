@@ -1,0 +1,6 @@
+model_checkpoint_path: "model-epoch_45_step_16789_loss_19.2709_lr_3e-05"
+all_model_checkpoint_paths: "model-epoch_25_step_9489_loss_39.0240_lr_0.0001"
+all_model_checkpoint_paths: "model-epoch_30_step_11314_loss_33.2745_lr_0.0001"
+all_model_checkpoint_paths: "model-epoch_35_step_13139_loss_22.3447_lr_3e-05"
+all_model_checkpoint_paths: "model-epoch_40_step_14964_loss_20.2457_lr_3e-05"
+all_model_checkpoint_paths: "model-epoch_45_step_16789_loss_19.2709_lr_3e-05"
