@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 7d7cfad8bd172924eac32510abb2bed1
+timeCreated: 1461160405
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: buildings
+    100004: corner01
+    100006: corner02
+    100008: crowd_A
+    100010: crowd_B
+    100012: crowd_BB
+    100014: crowd_C
+    100016: crowd_CC
+    100018: crowd_D
+    100020: crowd_DD
+    100022: fence
+    100024: flag01
+    100026: flag02
+    100028: foul_pole01
+    100030: foul_pole02
+    100032: infield
+    100034: outfield_grass
+    100036: outfield_wall
+    100038: pitching_mound
+    100040: plate_bases
+    100042: scoreboard
+    100044: stand01
+    100046: stand02
+    100048: stand03
+    100050: stand04
+    100052: stand_curve
+    100054: water_tower
+    400000: //RootNode
+    400002: buildings
+    400004: corner01
+    400006: corner02
+    400008: crowd_A
+    400010: crowd_B
+    400012: crowd_BB
+    400014: crowd_C
+    400016: crowd_CC
+    400018: crowd_D
+    400020: crowd_DD
+    400022: fence
+    400024: flag01
+    400026: flag02
+    400028: foul_pole01
+    400030: foul_pole02
+    400032: infield
+    400034: outfield_grass
+    400036: outfield_wall
+    400038: pitching_mound
+    400040: plate_bases
+    400042: scoreboard
+    400044: stand01
+    400046: stand02
+    400048: stand03
+    400050: stand04
+    400052: stand_curve
+    400054: water_tower
+    2300000: buildings
+    2300002: corner01
+    2300004: corner02
+    2300006: crowd_A
+    2300008: crowd_B
+    2300010: crowd_BB
+    2300012: crowd_C
+    2300014: crowd_CC
+    2300016: crowd_D
+    2300018: crowd_DD
+    2300020: fence
+    2300022: flag01
+    2300024: flag02
+    2300026: foul_pole01
+    2300028: foul_pole02
+    2300030: infield
+    2300032: outfield_grass
+    2300034: outfield_wall
+    2300036: pitching_mound
+    2300038: plate_bases
+    2300040: scoreboard
+    2300042: stand01
+    2300044: stand02
+    2300046: stand03
+    2300048: stand04
+    2300050: stand_curve
+    2300052: water_tower
+    3300000: buildings
+    3300002: corner01
+    3300004: corner02
+    3300006: crowd_A
+    3300008: crowd_B
+    3300010: crowd_BB
+    3300012: crowd_C
+    3300014: crowd_CC
+    3300016: crowd_D
+    3300018: crowd_DD
+    3300020: fence
+    3300022: flag01
+    3300024: flag02
+    3300026: foul_pole01
+    3300028: foul_pole02
+    3300030: infield
+    3300032: outfield_grass
+    3300034: outfield_wall
+    3300036: pitching_mound
+    3300038: plate_bases
+    3300040: scoreboard
+    3300042: stand01
+    3300044: stand02
+    3300046: stand03
+    3300048: stand04
+    3300050: stand_curve
+    3300052: water_tower
+    4300000: foul_pole01
+    4300002: corner01
+    4300004: stand_curve
+    4300006: stand01
+    4300008: flag01
+    4300010: stand02
+    4300012: scoreboard
+    4300014: outfield_wall
+    4300016: corner02
+    4300018: stand03
+    4300020: stand04
+    4300022: flag02
+    4300024: water_tower
+    4300026: buildings
+    4300028: fence
+    4300030: pitching_mound
+    4300032: infield
+    4300034: plate_bases
+    4300036: foul_pole02
+    4300038: crowd_A
+    4300040: crowd_B
+    4300042: crowd_BB
+    4300044: crowd_C
+    4300046: crowd_CC
+    4300048: crowd_D
+    4300050: crowd_DD
+    4300052: outfield_grass
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: d7063af7f54492f47abd5863def4ccaf
+timeCreated: 1461160392
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: barn
+    100002: barn01
+    100004: //RootNode
+    100006: corn01
+    100008: corn02
+    100010: dugout_fill
+    100012: dugouts
+    100014: fence01
+    100016: fence02
+    100018: foul_pole01
+    100020: foul_pole02
+    100022: infield
+    100024: outfield_grass
+    100026: picket_fence
+    100028: pitching_mound
+    100030: plate_bases
+    100032: shack
+    100034: treeline01
+    100036: treeline02
+    100038: trees01_back
+    100040: trees01_front
+    100042: trees02_back
+    100044: trees02_front
+    100046: windmill01
+    100048: windmill02
+    100050: windmill03
+    100052: windmill04
+    400000: barn
+    400002: barn01
+    400004: //RootNode
+    400006: corn01
+    400008: corn02
+    400010: dugout_fill
+    400012: dugouts
+    400014: fence01
+    400016: fence02
+    400018: foul_pole01
+    400020: foul_pole02
+    400022: infield
+    400024: outfield_grass
+    400026: picket_fence
+    400028: pitching_mound
+    400030: plate_bases
+    400032: shack
+    400034: treeline01
+    400036: treeline02
+    400038: trees01_back
+    400040: trees01_front
+    400042: trees02_back
+    400044: trees02_front
+    400046: windmill01
+    400048: windmill02
+    400050: windmill03
+    400052: windmill04
+    2300000: barn
+    2300002: barn01
+    2300004: corn01
+    2300006: corn02
+    2300008: dugout_fill
+    2300010: dugouts
+    2300012: fence01
+    2300014: fence02
+    2300016: foul_pole01
+    2300018: foul_pole02
+    2300020: infield
+    2300022: outfield_grass
+    2300024: picket_fence
+    2300026: pitching_mound
+    2300028: plate_bases
+    2300030: shack
+    2300032: treeline01
+    2300034: treeline02
+    2300036: trees01_back
+    2300038: trees01_front
+    2300040: trees02_back
+    2300042: trees02_front
+    2300044: windmill01
+    2300046: windmill02
+    2300048: windmill03
+    2300050: windmill04
+    3300000: barn
+    3300002: barn01
+    3300004: corn01
+    3300006: corn02
+    3300008: dugout_fill
+    3300010: dugouts
+    3300012: fence01
+    3300014: fence02
+    3300016: foul_pole01
+    3300018: foul_pole02
+    3300020: infield
+    3300022: outfield_grass
+    3300024: picket_fence
+    3300026: pitching_mound
+    3300028: plate_bases
+    3300030: shack
+    3300032: treeline01
+    3300034: treeline02
+    3300036: trees01_back
+    3300038: trees01_front
+    3300040: trees02_back
+    3300042: trees02_front
+    3300044: windmill01
+    3300046: windmill02
+    3300048: windmill03
+    3300050: windmill04
+    4300000: picket_fence
+    4300002: corn01
+    4300004: trees01_back
+    4300006: corn02
+    4300008: dugouts
+    4300010: fence01
+    4300012: fence02
+    4300014: trees02_back
+    4300016: treeline02
+    4300018: shack
+    4300020: barn
+    4300022: treeline01
+    4300024: trees01_front
+    4300026: trees02_front
+    4300028: windmill01
+    4300030: windmill02
+    4300032: barn01
+    4300034: windmill04
+    4300036: windmill03
+    4300038: dugout_fill
+    4300040: pitching_mound
+    4300042: infield
+    4300044: plate_bases
+    4300046: outfield_grass
+    4300048: foul_pole02
+    4300050: foul_pole01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
