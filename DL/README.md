@@ -56,19 +56,19 @@
  
  * * *
  - Ball detection <br/>
-    <br> ![](/Document/ball_detection.png)
-    <br> ![](/Document/ball_tracking.gif)
+    <br> ![](/DL/Document/ball_detection.png)
+    <br> ![](/DL/Document/ball_tracking.gif)
 <br/><br/>
 
 * * *
 
 - Pose estimation <br/>
-    <br> ![](/Document/pose_estimation_01.png)
-    <br> ![](/Document/pose_estimation_02.png)
+    <br> ![](/DL/Document/pose_estimation_01.png)
+    <br> ![](/DL/Document/pose_estimation_02.png)
     - Refine function
-        <br> ![](/Document/refine_function_01.png)
-        <br> ![](/Document/refine_function_02.png)
-    <br> ![](/Document/tracking_pose.gif)
+        <br> ![](/DL/Document/refine_function_01.png)
+        <br> ![](/DL/Document/refine_function_02.png)
+    <br> ![](/DL/Document/tracking_pose.gif)
 <br/><br/>
 
 * * *
@@ -79,12 +79,12 @@
 * * *
 
 - Swing judgement
-    <br> ![](/Document/swing.gif)
-    <br> ![](/Document/no_swing.gif)
+    <br> ![](/DL/Document/swing.gif)
+    <br> ![](/DL/Document/no_swing.gif)
 
 * * *
 
 - Strike / Ball judgement
-    <br> ![](/Document/3d.gif)
+    <br> ![](/DL/Document/3d.gif)
 
 * * *
