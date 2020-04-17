@@ -74,7 +74,7 @@
 * * *
 
 - Labeling
-    <br> ![](/Document/labeling.png)
+    <br> ![](/DL/Document/labeling.png)
 
 * * *
 
